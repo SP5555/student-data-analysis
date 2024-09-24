@@ -1,3 +1,4 @@
+
 # Student Record Analysis
 ## Comparison between CS and non-CS performance
 This data analysis examine how the CS and non-CS performance changes over time to see if temporal factors like time have a noticeable impact on the grades.
@@ -14,6 +15,7 @@ Then, open the terminal in that directory and run:
 git clone https://github.com/SP5555/student-data-analysis.git
 ```
 **Git** will create a local copy of the repository in a folder named `student-data-analysis`.
+
 2. Navigate to the `student-data-analysis` folder. Then, set up the python virtual environment by running:
 ```bash
 python -m venv venv
