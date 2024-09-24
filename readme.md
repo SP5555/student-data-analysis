@@ -8,12 +8,12 @@ This data analysis examine how the CS and non-CS performance changes over time t
 
 To install using `pip`, run
 ```bash
-pip install pandas numpy matplotlib
+pip install -r requirements.txt
 ```
 ## How to run
-Simply run
+Simply run the following command:
 ```bash
 python main.py
 ```
-in the directory or double-click on `main.py`.
+Alternatively, you can double-click on `main.py` if your environment supports it.
 ## Here is the [Link](https://docs.google.com/document/d/1tyKBWTU5Y5mGftqS1wHuWdGlihTIrpRWeFm-r1NBdgA/edit?usp=sharing) to the report.
